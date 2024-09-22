@@ -4,9 +4,9 @@ Telegram Media Downloader is a user script that allows you to download images, G
 
 This script works on:
 
-https://web.telegram.org/
-https://webk.telegram.org/
-https://webz.telegram.org/
+* https://web.telegram.org/
+* https://webk.telegram.org/
+* https://webz.telegram.org/
 
 # Features
 Download any video, image, or voice message, even from restricted or private Telegram channels.
