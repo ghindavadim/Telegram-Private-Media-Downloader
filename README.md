@@ -39,4 +39,7 @@ For voice messages: You can download them with a similar button.
  Step 4: Enjoy
 You can now download any media content from Telegram, even from channels or groups that have download restrictions.
 
+# © All rights reserved by Ghindă Vadim.
 
+Instagram : https://www.instagram.com/ghinda_vadim/
+Linkedin : https://www.linkedin.com/in/vadimghinda/
